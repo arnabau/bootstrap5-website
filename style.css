@@ -1,0 +1,16 @@
+.btn-orange {
+  color: whitesmoke;
+  background-color: orange;
+}
+
+.btn-orange:hover {
+  color:white;
+  background-color: tomato;
+  transition: all .8s;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
